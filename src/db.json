@@ -1,0 +1,22 @@
+{
+  "tasks": [
+    {
+      "text": "Backend development practise",
+      "day": "Daily",
+      "reminder": false,
+      "id": 1
+    },
+    {
+      "text": "Leetcode contest",
+      "day": "Saturday, 23 July , 8pm",
+      "reminder": true,
+      "id": 3
+    },
+    {
+      "text": "Revise React.js",
+      "day": "2023-03-02",
+      "reminder": true,
+      "id": 5
+    }
+  ]
+}
